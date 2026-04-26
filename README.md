@@ -168,8 +168,8 @@ Exercices fondamentaux avec corrections fournies :
 
 | Exercice | Contenu |
 |----------|---------|
-| Q1 | Fonction récursive `ispalindrome` — vérification de palindromes |
-| Q2 | Chiffrement de César — décalage alphabétique avec `crypter` |
+| Q1 | Fonction récursive `ispalindrome` - vérification de palindromes |
+| Q2 | Chiffrement de César - décalage alphabétique avec `crypter` |
 | Q3 | Évaluation de la force d'un mot de passe (score pondéré) |
 
 > 📓 Notebook : [`TP2 - INF2.ipynb`](TP/TP2/TP2%20-%20INF2.ipynb)
